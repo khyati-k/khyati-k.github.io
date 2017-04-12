@@ -1,0 +1,20 @@
+#intro{
+    background-color:  #5A2971 ;
+}
+#tile-bg{
+      background-color:  #BFA4CB ;
+  
+}
+.is-child{
+   background-color:  #5A2971 !important;
+}
+
+
+.dark-primary-color    { background: #1976D2; }
+.default-primary-color { background: #2196F3; }
+.light-primary-color   { background: #BBDEFB; }
+.text-primary-color    { color: #FFFFFF; }
+.accent-color          { background: #448AFF; }
+.primary-text-color    { color: #212121; }
+.secondary-text-color  { color: #757575; }
+.divider-color         { border-color: #BDBDBD; }
